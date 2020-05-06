@@ -3,12 +3,12 @@
 
 During the archaic period, the work of the “Achilles Painter” and the “Tyszkiewicz Painter” (580-560 BCE) was found primarily in spots on the Greek peninsula and other locations on the Aegean Sea. Twenty three vases were found on the mainland, while five were found in Asia Minor and Egypt. Only one find spot and one vase was located in Italy for archaic painters.
 
-!["copy image address"](https://github.com/nadimattia/clas299/blob/master/vase_data_archaic.png?raw=true)
+!["copy image address"](https://github.com/nadimattia/clas299/blob/master/beazley_module2/vase_data_archaic.png?raw=true)
 
 
 Comparatively, vases attributed to artists of the pioneer and classical periods are often found on the Italian peninsula. Vases of the pioneer group (520-500 BCE) were found in both Greece and Italy while vases of the classical period (mid-400s BCE) are found primarily in Italy.  The pioneer group vases appear to be the transition between the patterns seen in classical and archaic trade, with archaic trade focused on the Aegean and classical focused on the Italian peninsula, as the pioneer vases are found in spots in both Italy and Greece.
 
-!["copy image address"](https://github.com/nadimattia/clas299/blob/master/vase_data_pioneerandclassical.png?raw=true)
+!["copy image address"](https://github.com/nadimattia/clas299/blob/master/beazley_module2/vase_data_pioneerandclassical.png?raw=true)
 
 It is possible that the loss of trade to Asia Minor is due to the Persian conquest of Asia Minor in 546 BCE. Change of political power could have resulted in a shift in the trade patterns due to changing trade regulations. The expansion of trade into Italy during the pioneer era would have coincided with the founding of the Roman Republic in 509 BCE. As Rome was growing, pottery trade likely became more necessary and more lucrative.
 
