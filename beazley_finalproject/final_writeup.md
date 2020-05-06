@@ -3,7 +3,7 @@
 
 Using data from the Beazley Archive hosted at the University of Oxford’s Classical Art Research Centre, this project aimed to explore possible connections between the variations in amphora and krater shapes and the distribution of their find spots.
 
-The Beazley Archive is the world’s largest collection of photographs and information on ancient Greek painted pottery and contains 117,751 entries (“The Beazley Archive.”). Using a Jupyter notebook, that data was narrowed down to the 47,551 pieces that had information regarding the pottery’s shape name, provenance, date, latitude, and longitude. From that cleaned up data set, we then extracted the amphora entries and the krater entries. We then mapped the data using QGIS software. The Jupyter notebook used and the data set (in a tsv file) are available in a github repository [here](https://github.com/nadimattia/clas299/tree/master/beazley_finalproject). 
+The Beazley Archive is the world’s largest collection of photographs and information on ancient Greek painted pottery and contains 117,751 entries (“The Beazley Archive.”). Using a Jupyter notebook, that data was narrowed down to the 47,551 pieces that had information regarding the pottery’s shape name, provenance, date, latitude, and longitude. From that cleaned up data set, we then extracted the amphora entries and the krater entries. We then mapped the data using QGIS software. The Jupyter notebook used and the original data set (in a tsv file) are available in a github repository [here](https://github.com/nadimattia/clas299/tree/master/beazley_finalproject).
 
 **AMPHORAE**
 
